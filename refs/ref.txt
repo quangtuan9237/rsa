@@ -1,0 +1,16 @@
+TÀI LIỆU THAM KHẢO
+RSA là gì? Cơ chế hoạt động của RSA ra sao?: 
+http://nghelaptrinh.net/rsa-la-gi/
+A Tour of NTL: 
+https://libntl.org/doc/tour.html
+Examples: Big Integers: 
+https://libntl.org/doc/tour-ex1.html
+Obtaining and Installing NTL for UNIX: 
+https://libntl.org/doc/tour-unix.html
+Thuật toán Miller-Rabin kiểm tra tính nguyên tố - Miller-Rabin Primality Testing: https://www.giaithuatlaptrinh.com/?p=278
+Mã nguồn:
+https://github.com/andrewkiluk/RSA-Library/blob/master/rsa.c
+https://github.com/ijleesw/RSA-NTL/blob/master/src/User.hpp
+https://github.com/thangdnsf/PrGlib
+
+
